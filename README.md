@@ -41,3 +41,6 @@ Automattic is building a site for Turn it Around in WordPress 5.7.
 - [Woocommerce Subscription Downloads](https://woocommerce.com/products/woocommerce-subscription-downloads/)
 - [WooCommerce Booking](https://woocommerce.com/products/woocommerce-bookings/)
 - [WooCommerce Memberships](https://woocommerce.com/products/woocommerce-memberships/)
+- [Teams for WooCommerce Memberships](https://woocommerce.com/products/teams-woocommerce-memberships/)
+- [WooCommerce Social Login](https://woocommerce.com/products/woocommerce-social-login/)
+
