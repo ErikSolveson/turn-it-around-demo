@@ -1,5 +1,5 @@
 # turn-it-around-demo
-This is a repo where I am building out issues for a factious site build.
+This is a repo where I am building out issues for a fictitious site build.
 
 ## Partner and Project: Building a Site for Turn it Around
 
